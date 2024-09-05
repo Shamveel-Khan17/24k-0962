@@ -7,4 +7,5 @@
 
 -Im currently learning C and javascript. 
 
+![a picture of me](https://github.com/user-attachments/assets/745be0c2-1833-4295-a585-aa3ef9d2b477)
 
